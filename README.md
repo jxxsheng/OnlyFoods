@@ -2,7 +2,7 @@
 
 ## Only Foods Web Application
 
-![Cover](Documents\Diagrams\OnlyFoods.png)
+![Cover](./Documents/Diagrams/OnlyFoods.png)
 
 ### Team Members
 
