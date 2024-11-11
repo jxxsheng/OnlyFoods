@@ -1,1 +1,0 @@
-This project is used for SC2006
