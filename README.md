@@ -42,14 +42,6 @@ This project is developed with [Express.js](https://expressjs.com/) and tested o
 3. You will require:
     - [Nutritionix](https://www.nutritionix.com/business/api) API Client ID and API Key
     - [Supabase](https://supabase.com/database) API Key
-    
-    These are our API Client ID and API Keys:
-    
-    NUTRITIONIX_API_KEY = 85ef1ec3b7810ef681a05aef6e9e72d3
-    
-    NUTRITIONIX_APP_ID = ff698b8c
-
-    SUPABASE_ANON_KEY = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZvenpueWZreGtyamtjcHBwaHBvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzA3MjgyNzksImV4cCI6MjA0NjMwNDI3OX0.SWqHeW_yA6LH8jQFGh-JrD5teZ73RmOh7EoSpY4pW_A
 
 4. To run the programme, open terminal:
 
